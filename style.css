@@ -1,0 +1,25 @@
+body{
+    background-color: #ffd6e7;
+}
+
+.container{
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-left: 20px;
+    position: relative;
+}
+
+#no {
+    position: relative;
+    bottom: 0;
+    right: 0;
+}
